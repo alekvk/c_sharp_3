@@ -1,0 +1,15 @@
+G:\c_sharp\max_of_2\bin\MCD\Debug\net6.0\max_of_2.exe
+G:\c_sharp\max_of_2\bin\MCD\Debug\net6.0\max_of_2.deps.json
+G:\c_sharp\max_of_2\bin\MCD\Debug\net6.0\max_of_2.runtimeconfig.json
+G:\c_sharp\max_of_2\bin\MCD\Debug\net6.0\max_of_2.dll
+G:\c_sharp\max_of_2\bin\MCD\Debug\net6.0\max_of_2.pdb
+G:\c_sharp\max_of_2\obj\MCD\Debug\net6.0\max_of_2.csproj.AssemblyReference.cache
+G:\c_sharp\max_of_2\obj\MCD\Debug\net6.0\max_of_2.GeneratedMSBuildEditorConfig.editorconfig
+G:\c_sharp\max_of_2\obj\MCD\Debug\net6.0\max_of_2.AssemblyInfoInputs.cache
+G:\c_sharp\max_of_2\obj\MCD\Debug\net6.0\max_of_2.AssemblyInfo.cs
+G:\c_sharp\max_of_2\obj\MCD\Debug\net6.0\max_of_2.csproj.CoreCompileInputs.cache
+G:\c_sharp\max_of_2\obj\MCD\Debug\net6.0\max_of_2.dll
+G:\c_sharp\max_of_2\obj\MCD\Debug\net6.0\refint\max_of_2.dll
+G:\c_sharp\max_of_2\obj\MCD\Debug\net6.0\max_of_2.pdb
+G:\c_sharp\max_of_2\obj\MCD\Debug\net6.0\max_of_2.genruntimeconfig.cache
+G:\c_sharp\max_of_2\obj\MCD\Debug\net6.0\ref\max_of_2.dll
