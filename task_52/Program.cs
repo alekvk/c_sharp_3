@@ -31,7 +31,7 @@ for (int j = 0; j < matrix.GetLength(1); j++)
 // Функция вывода на экран элементов двуразмерного массива
 void PrintArray (int [,] array)
 {
-    Console.WriteLine ("Элементы массива :");
+    Console.WriteLine ("Элементы массива : ");
     for (int i = 0; i < array.GetLength(0); i++)
 	{
 		for (int j = 0; j < array.GetLength(1); j++)

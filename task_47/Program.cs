@@ -16,7 +16,7 @@ int max = Convert.ToInt32(Console.ReadLine());
 double [,] arr = CreateTwoDimensArray (r, c, min, max);
 PrintArray(arr);
 
-// Функция вывода на экран элементов двуразмерного массива
+//  Функция вывода на экран элементов двуразмерного массива
 void PrintArray (double [,] array)
 {
     Console.WriteLine ("Элементы массива :");

@@ -14,7 +14,7 @@ int [,] matrix = new int[,]
 	{4, 56, 78, 85, 2, 52}
 };	
 	
-Console.WriteLine ("Укажите позицию элемента в массиве  ");
+Console.WriteLine ("Укажите позицию элемента в массиве   ");
 Console.Write ("Укажите номер строки  ");
 uint numRow = Convert.ToUInt32(Console.ReadLine());
 Console.Write ("Укажите номер столбца  ");
